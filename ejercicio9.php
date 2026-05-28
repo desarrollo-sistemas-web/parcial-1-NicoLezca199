@@ -5,4 +5,6 @@
 
 function generarTablaMultiplicar($num) {
     // Tu código aquí
+
+    
 }
